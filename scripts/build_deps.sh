@@ -24,6 +24,6 @@ load_dependency () {
 }
 
 load_dependency "lib/resty/jwt.lua" "SkyLothar" "lua-resty-jwt" "612dcf581b5dd2b4168bab67d017c5e23b32bf0a" "cca4f2ea1f49d7c12aecc46eb151cdf63c26294b"
-load_dependency "lib/resty/hmac.lua" "eLvErDe" "lua-resty-hmac" "3c01142936f089692cb195fd748ee497a577ebc3" "e4498404b9f45077080e7cb8754c4f8a186a6c97"
+load_dependency "lib/resty/hmac.lua" "jkeys089" "lua-resty-hmac" "31ec98103213ac6e5bcfacc6e1a95ff3f823b144" "a8384de784b319bdc0653c00ce3f793ef8082f5e"
 load_dependency "lib/resty/string.lua" "openresty" "lua-resty-string" "a55eb9e3e0f08e1797cd5b31ccea9d9b05e5890b" "b9f714fe5d501e9ca56ff69e60cd6f34e773780b"
 load_dependency "lib/basexx.lua" "aiq" "basexx" "514f46ceb9a8a867135856abf60aaacfd921d9b9" "da8efedf0d96a79a041eddfe45a6438ea4edf58b"
